@@ -12,12 +12,13 @@ DYNAMODB_TABLE = dynamodb.Table("Users")
 
 # Predefined users
 USER_LIST = [
-    {"First_Name": "Aman", "Last_Name": "Jain", "Phone_Number": "+19495329113"},
-    {"First_Name": "Timothy", "Last_Name": "Jayamohan", "Phone_Number": "+17247595753"},
-    {"First_Name": "Ethan", "Last_Name": "Yang", "Phone_Number": "+16082363352"},
-    {"First_Name": "Summit", "Last_Name": "Koegel", "Phone_Number": "+16086049106"},
-    {"First_Name": "Anirudh", "Last_Name": "Dahiya", "Phone_Number": "+16179134549"}
-]
+    {"First_Name": "Ming", "Last_Name": "Wang", "Phone_Number": "+12164145796"} ]
+   #more sample
+   # {"First_Name": "Timothy", "Last_Name": "Jayamohan", "Phone_Number": "+17247595753"},
+   # {"First_Name": "Ethan", "Last_Name": "Yang", "Phone_Number": "+16082363352"},
+   # {"First_Name": "Summit", "Last_Name": "Koegel", "Phone_Number": "+16086049106"},
+   # {"First_Name": "Anirudh", "Last_Name": "Dahiya", "Phone_Number": "+16179134549"}
+
 
 # Sample locations
 LOCATIONS = ["New York", "Chicago", "Seattle", "San Francisco", "Austin"]
